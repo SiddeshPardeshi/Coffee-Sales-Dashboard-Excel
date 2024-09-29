@@ -44,8 +44,9 @@ The dashboard was built by inserting and customizing pivot charts from the relev
 
 Here’s a preview of the final Excel dashboard below.
 
+![Capture](https://github.com/user-attachments/assets/744d45dd-7836-4cdb-8807-66c295a76798)
 
-# Insights
+# Insights 
 
 # 1. Sales Over Time:
 
